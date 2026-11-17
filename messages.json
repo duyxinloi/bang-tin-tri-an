@@ -1,0 +1,14 @@
+[
+    {
+        "id": "seed2",
+        "sender": "Một sinh viên giấu tên",
+        "message": "Thanh xuân ở Đại học Tây Nguyên là quãng thời gian đẹp nhất. Cảm ơn vì tất cả.",
+        "time": "17\/11\/2026 08:15"
+    },
+    {
+        "id": "seed1",
+        "sender": "Nhóm 1 CNTT K25",
+        "message": "Cảm ơn các thầy cô đã dẫn dắt chúng em trên hành trình chinh phục công nghệ. Chúc thầy cô ngày 20\/11 thật nhiều niềm vui!",
+        "time": "17\/11\/2026 08:00"
+    }
+]
